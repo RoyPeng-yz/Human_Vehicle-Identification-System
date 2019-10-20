@@ -5,6 +5,6 @@
 'keras', 'keras-resnet', 'six', 'scipy', 'cython', 'Pillow', 'opencv-python', 'progressbar2'
 其中："cython>=0.28", "numpy>=1.14.0"
 
-安装方式请看博客：
+安装方式请看博客：https://blog.csdn.net/qq_41131259/article/details/102636590
 
 环境搭建完毕，直接运行peoplecar.py即可，源代码中有重要注释。
